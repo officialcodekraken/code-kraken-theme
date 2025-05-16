@@ -1,0 +1,35 @@
+{
+  "fonts": [
+    {
+      "id": "kraken-icons",
+      "src": [
+        {
+          "path": "../fonts/code-kraken-icon-font.woff",
+          "format": "woff"
+        }
+      ]
+    }
+  ],
+  "iconDefinitions": {
+    "explorer-view-icon": {
+      "fontCharacter": "\\e901",
+      "fontId": "kraken-icons"
+    },
+    "search-view-icon": {
+      "fontCharacter": "\\e903",
+      "fontId": "kraken-icons"
+    },
+    "source-control-view-icon": {
+      "fontCharacter": "\\e904",
+      "fontId": "kraken-icons"
+    },
+    "extensions-view-icon": {
+      "fontCharacter": "\\e902",
+      "fontId": "kraken-icons"
+    },
+    "run-view-icon": {
+      "fontCharacter": "\\e900",
+      "fontId": "kraken-icons"
+    }
+  }
+}

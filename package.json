@@ -1,0 +1,28 @@
+{
+  "name": "code-kraken-theme",
+  "displayName": "Code Kraken ™ Theme",
+  "description": "The official dark cyberpunk theme extension by Code Kraken™, built for developers who debug in the multiverse.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Code Kraken ™ Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/code-kraken-color-theme.json"
+      }
+    ],
+    "productIconThemes": [
+      {
+        "id": "code-kraken-icons",
+        "label": "Code Kraken ™ Icons",
+        "path": "./themes/code-kraken-product-icon-theme.json"
+      }
+    ]
+  }
+}

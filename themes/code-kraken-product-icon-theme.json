@@ -1,7 +1,7 @@
 {
   "fonts": [
     {
-      "id": "kraken-icons",
+      "id": "code-kraken-icons",
       "src": [
         {
           "path": "../fonts/code-kraken-icon-font.woff",
@@ -12,24 +12,32 @@
   ],
   "iconDefinitions": {
     "explorer-view-icon": {
-      "fontCharacter": "\\e901",
-      "fontId": "kraken-icons"
+      "fontCharacter": "\\e902",
+      "fontId": "code-kraken-icons"
     },
     "search-view-icon": {
-      "fontCharacter": "\\e903",
-      "fontId": "kraken-icons"
+      "fontCharacter": "\\e904",
+      "fontId": "code-kraken-icons"
     },
     "source-control-view-icon": {
-      "fontCharacter": "\\e904",
-      "fontId": "kraken-icons"
+      "fontCharacter": "\\e906",
+      "fontId": "code-kraken-icons"
     },
     "extensions-view-icon": {
-      "fontCharacter": "\\e902",
-      "fontId": "kraken-icons"
+      "fontCharacter": "\\e903",
+      "fontId": "code-kraken-icons"
     },
     "run-view-icon": {
+      "fontCharacter": "\\e901",
+      "fontId": "code-kraken-icons"
+    },
+    "settings-view-bar-icon": {
+      "fontCharacter": "\\e905",
+      "fontId": "code-kraken-icons"
+    },
+    "accounts-view-bar-icon": {
       "fontCharacter": "\\e900",
-      "fontId": "kraken-icons"
+      "fontId": "code-kraken-icons"
     }
   }
 }

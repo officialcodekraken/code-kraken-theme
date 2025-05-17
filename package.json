@@ -2,7 +2,7 @@
   "name": "code-kraken-theme",
   "displayName": "Code Kraken ™ Theme",
   "description": "The official dark cyberpunk theme extension by Code Kraken™, built for developers who debug in the multiverse.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "TheCodeKraken",
   "engines": {
     "vscode": "^1.100.0"
@@ -40,10 +40,10 @@
   "license": "SEE LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-user/code-kraken-theme"
+    "url": "https://github.com/officialcodekraken/code-kraken-theme"
   },
   "bugs": {
-    "url": "https://github.com/your-user/code-kraken-theme/issues"
+    "url": "https://github.com/officialcodekraken/code-kraken-theme/issues"
   },
   "homepage": "https://www.thecodekraken.com",
   "scripts": {

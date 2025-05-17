@@ -25,6 +25,26 @@
 
 ---
 
+
+## 🪲 Error & Warning Highlighting
+
+In the spirit of Code Kraken™’s debugging ritual, **all errors and warnings are highlighted in Rubber Ducky Yellow** <span style="display:inline-block;width:16px;height:16px;background-color:#fbc02d;border-radius:3px;"></span> (`#fbc02d`).
+
+| Message Type | Color     | Hex | Purpose                |
+| ------------ | --------- | --------- | ---------------------- |
+| ⚠ Warnings  |<span style="display:inline-block;width:16px;height:16px;background-color:#fbc02d;border-radius:3px;"></span>| `#fbc02d` | Catch cautionary hints |
+| ❌ Errors     | <span style="display:inline-block;width:16px;height:16px;background-color:#fbc02d;border-radius:3px;"></span>| `#fbc02d` | Flag terminal mistakes |
+
+
+
+
+> The rubber duck is watching — speak your bugs aloud.
+
+This visual choice aligns with the Kraken’s coding companion, the ever-present duck, reinforcing the idea that sometimes the act of explaining your code out loud is all you need to fix it.
+
+---
+
+
 ## 🧪 Preview
 
 ![Theme Preview](images/theme-screenshot.jpg)
@@ -33,15 +53,15 @@
 
 ## 🎨 Syntax Highlights
 
-| Scope                       | Color     | Description                       |
-|----------------------------|-----------|-----------------------------------|
-| `keyword`, `operator`      | `#b271ff` | Logical/bitwise/JS control flow   |
-| `variable.language`        | `#e96530` | Built-in language variables       |
-| `string`                   | `#e6bbff` | Strings and text                 |
-| `constant.numeric`         | `#cbfe87` | Numbers and enums                 |
-| `comment`                  | `#5a3a9c` | Comments with a muted tone        |
-| `support.function.console` | `#db3c80` | Console/logging statements        |
-| `entity.name.class`        | `#e96530` | Class and type declarations       |
+| Scope                      | Color     | Hex       | Description                       |
+|----------------------------|-----------| ----------| ----------------------------------|
+| `keyword`, `operator`      |<span style="display:inline-block;width:16px;height:16px;background-color:#b271ff;border-radius:3px;"></span>| `#b271ff` | Logical/bitwise/JS control flow   |
+| `variable.language`        |<span style="display:inline-block;width:16px;height:16px;background-color:#e96530;border-radius:3px;"></span>| `#e96530` | Built-in language variables       |
+| `string`                   |<span style="display:inline-block;width:16px;height:16px;background-color:#e6bbff;border-radius:3px;"></span>| `#e6bbff` | Strings and text                 |
+| `constant.numeric`         |<span style="display:inline-block;width:16px;height:16px;background-color:#cbfe87;border-radius:3px;"></span>| `#cbfe87` | Numbers and enums                 |
+| `comment`                  |<span style="display:inline-block;width:16px;height:16px;background-color:#5a3a9c;border-radius:3px;"></span>| `#5a3a9c` | Comments with a muted tone        |
+| `support.function.console` |<span style="display:inline-block;width:16px;height:16px;background-color:#db3c80;border-radius:3px;"></span>| `#db3c80` | Console/logging statements        |
+| `entity.name.class`        |<span style="display:inline-block;width:16px;height:16px;background-color:#e96530;border-radius:3px;"></span>| `#e96530` | Class and type declarations       |
 
 ---
 
